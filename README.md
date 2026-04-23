@@ -6,7 +6,7 @@
 
 ### About me
 
-<p align="justify">A passionate and motivated Angular developer with two years of experience creating dynamic and user-friendly web and mobile applications. I am proficient in Angular, Ionic, HTML, CSS, and JavaScript, and I have a strong understanding of software development concepts as well as the ability to collaborate with cross-functional teams.</p>
+<p align="justify">A passionate and motivated Software developer with 4+ years of experience creating dynamic and user-friendly web and mobile applications. I am proficient in React, Angular, Node, Laravel, HTML, CSS, and JavaScript, and I have a strong understanding of software development concepts as well as the ability to collaborate with cross-functional teams.</p>
 
 <br>
 <p align="left">
